@@ -1,4 +1,4 @@
-# DL_P3_Building-Deep-Neural-Network-Step-by-Step
+# Building-Deep-Neural-Network-Step-by-Step
 
 The previous project, I trained a 2-layer Neural Network (with a single hidden layer). In this project, I build a deep neural network, with many layers.
 
